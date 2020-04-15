@@ -2,4 +2,4 @@
 
 You are super amazing
 
-P.S. tweety says hi :chick:
+P.S. tweety says hi :chicken:
