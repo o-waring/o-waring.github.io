@@ -1,6 +1,7 @@
 ---
 layout: default
-title: Caroline is awesome
+title: Caroline is totally awesome
+subtitle: Seriously she's the best
 ---
 
 ### I love you Caroline
